@@ -1,0 +1,16 @@
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.exe
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.deps.json
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.runtimeconfig.dev.json
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.dll
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\Sinema Büfe.pdb
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema_Büfe.Form1.resources
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema_Büfe.Properties.Resources.resources
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.csproj.GenerateResource.cache
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.AssemblyInfoInputs.cache
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.AssemblyInfo.cs
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.dll
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.pdb
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\obj\Release\netcoreapp3.1\Sinema Büfe.genruntimeconfig.cache

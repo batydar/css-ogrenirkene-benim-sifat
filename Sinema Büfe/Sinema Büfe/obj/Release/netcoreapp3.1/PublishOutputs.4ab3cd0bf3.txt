@@ -1,0 +1,5 @@
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\publish\Sinema Büfe.exe
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\publish\Sinema Büfe.dll
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\publish\Sinema Büfe.deps.json
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\publish\Sinema Büfe.runtimeconfig.json
+C:\Users\Batuhan\source\repos\Sinema Büfe\Sinema Büfe\bin\Release\netcoreapp3.1\publish\Sinema Büfe.pdb
