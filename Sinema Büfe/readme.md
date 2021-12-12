@@ -1,2 +1,2 @@
-Sinema büfe isimli oyunumsunun ana klasöründesiniz.
+# Sinema büfe isimli oyunumsunun ana klasöründesiniz.
 Geliştirilecektir
